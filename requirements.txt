@@ -1,0 +1,5 @@
+# requirements.txt
+
+# This file lists the dependencies required for running tests.
+
+pytest==6.2.5
