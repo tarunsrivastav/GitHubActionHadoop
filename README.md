@@ -1,2 +1,2 @@
-# GitHubActionHadoop
-GitHubAction to isnstall Hadoop
+# GitHubActionPython
+GitHubAction to run test using Python
